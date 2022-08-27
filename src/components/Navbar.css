@@ -1,0 +1,28 @@
+.myNavbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
+    border-bottom: 1px solid black;
+
+}
+
+.myNavbar h1{
+    color : #f1356d;
+}
+
+.myNavbar .links{
+margin-left: auto;
+}
+
+.myNavbar a {
+text-decoration:  none;
+padding: 5px;
+margin-left: 15px;
+}
+
+
+.myNavbar a:hover {
+ color : #f1356d;
+    }
